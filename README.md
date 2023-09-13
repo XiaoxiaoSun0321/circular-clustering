@@ -21,7 +21,7 @@ Example figure below shows how to reconstruct polar coordinates on the rectangul
 
 ## Installation
 
-No further installation needed. Function files are directly runnable in Matlab and Python. 
+No further installation needed. Function files are directly runnable in Matlab. 
 
 ## Usage
 
