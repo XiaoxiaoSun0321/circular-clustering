@@ -15,7 +15,7 @@ Example figure below shows how to reconstruct polar coordinates on the rectangul
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Example Data](#example_data)
+- [Example Data](#example)
 - [License](#license)
 - [Credits](#credits)
 - [Contact](#contact)
@@ -30,10 +30,12 @@ Provided function file 'gmfp.m' and 'lmfp.m' that calculates the global/local me
 
 ## Features
 
-- Feature 1: Two versions have been provided to run in both Matlab and Python. 
-- Feature 2: Beginner Friendly. Examples in both enviroment have been provided (see [Matlab example](matlab/example.mlx) and [Python example](python/gmfp_example.ipynb) for details). 
-
-## Example Data
+- Feature 1: Codes to reproduce all original figures are provided.
+- Feature 2: Corresponding codes of all evaluated algorithms are provided. (see [Matlab example](matlab/example.mlx) and [Python example](python/gmfp_example.ipynb) for details). 
+- Feature 3: Two example datasets are provided.
+  
+## Example
+- Besides the syntheic 
 
 
 ## License
