@@ -25,9 +25,12 @@ Example figure below shows how to reconstruct polar coordinates on the rectangul
 No further installation needed. Function files are directly runnable in Matlab. Work on any Matlab version with build-in functions for **kmeans**, **dbscan**, **linkage**. 
 
 Please put all .m files in the same folder to make sure the working path is matched. We separate the .m files into several folders for organization purpose.
-[functions for proposed algorithms](functions/)
-[how to implement functions and reproduce publication figures](figures/)
-[example data for phase entrainment](example_data/)
+
+[1. functions for proposed algorithms](functions/)
+
+[2. how to implement functions and reproduce publication figures](figures/)
+
+[3. example data for phase entrainment](example_data/)
 
 ## Usage
 
