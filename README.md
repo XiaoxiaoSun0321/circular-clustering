@@ -15,7 +15,7 @@ Example figure below shows how to reconstruct polar coordinates on the rectangul
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Example Data](#exampledata)
+- [Example Data](#example data)
 - [License](#license)
 - [Credits](#credits)
 - [Contact](#contact)
