@@ -7,8 +7,8 @@
 Current clustering schemes that work in a polar coordinate system have limitations, such as being only angle-focused or lacking generality. To overcome these limitations, we propose a new analysis framework that utilizes projections onto a cylindrical coordinate system to better represent objects in a polar coordinate system. Using the mathematical properties of circular data, our approach always finds the correct clustering result within the reconstructed dataset, given sufficient periodic repetitions of the data. Our approach is generally applicable and adaptable and can be incorporated into most state-of-the-art clustering algorithms. We demonstrate on synthetic and real data that our method generates more appropriate and consistent clustering results compared to standard methods.  
 
 Example figure below shows how to reconstruct polar coordinates on the rectangular plane using cylindrical coordinates:
-![Reconstruction](Fig2.png)
 
+<img src="Fig2.png" alt="Coordinate Reconstruction" width="300"/>
 
 ## Table of Contents
 
