@@ -25,11 +25,11 @@ No further installation needed. Function files are directly runnable in Matlab. 
 
 Please put all .m files in the same folder to make sure the working path is matched. We separate the .m files into several folders here for organization purpose.
 
-[1.  functions for proposed algorithms: functions/](functions/)
+1.  functions for proposed algorithms: [functions/](functions/)
 
-[2. how to implement functions and reproduce publication figures: figures/](figures/)
+2. how to implement functions and reproduce publication figures: [figures/](figures/)
 
-[3. example data for phase entrainment: example_data/](example_data/)
+3. example data for phase entrainment: [example_data/](example_data/)
 
 ## Usage
 
