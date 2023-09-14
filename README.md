@@ -8,7 +8,7 @@ Current clustering schemes that work in a polar coordinate system have limitatio
 
 Example figure below shows how to reconstruct polar coordinates on the rectangular plane using cylindrical coordinates:
 
-<img src="Fig2.png" alt="Coordinate Reconstruction" width="300"/>
+<img src="Fig2.png" alt="Coordinate Reconstruction" width="800"/>
 
 ## Table of Contents
 
