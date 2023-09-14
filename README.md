@@ -38,8 +38,8 @@ Please see details of each function in .m file.
 ## Features
 
 - Feature 1: Codes to reproduce all original figures are provided. [figures/](figures/)
-- Feature 2: Corresponding codes of all evaluated algorithms are provided. (see [kmeans](functions/kmeans_search.m), [dbscan](functions/dbscan_search.m) and [hierarchical](functions/hierarchical_search.m) for details). 
-- Feature 3: Two example datasets are provided ([phase entrainment](example_data/) and [DNA sequence](functions/dna_sequences.m).
+- Feature 2: Corresponding codes of all evaluated algorithms are provided. (see [kmeans_search](functions/kmeans_search.m), [dbscan_search](functions/dbscan_search.m) and [hierarchical_search](functions/hierarchical_search.m) for details). 
+- Feature 3: Two example datasets are provided ([phase entrainment](example_data/) and [DNA sequence](functions/dna_sequences.m)).
   
 ## License
 
