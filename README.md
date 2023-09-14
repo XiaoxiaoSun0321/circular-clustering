@@ -23,7 +23,7 @@ Example figure below shows how to reconstruct polar coordinates on the rectangul
 
 No further installation needed. Function files are directly runnable in Matlab. Work on any Matlab version with build-in functions for **kmeans**, **dbscan**, **linkage**. 
 
-Please put all .m files in the same folder to make sure the working path is matched. We separate the .m files into several folders for organization purpose.
+Please put all .m files in the same folder to make sure the working path is matched. We separate the .m files into several folders here for organization purpose.
 
 [1.  functions for proposed algorithms: functions/](functions/)
 
