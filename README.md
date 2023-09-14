@@ -15,7 +15,6 @@ Example figure below shows how to reconstruct polar coordinates on the rectangul
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
-- [Example Data](#example)
 - [License](#license)
 - [Credits](#credits)
 - [Contact](#contact)
@@ -26,35 +25,31 @@ No further installation needed. Function files are directly runnable in Matlab. 
 
 Please put all .m files in the same folder to make sure the working path is matched. We separate the .m files into several folders for organization purpose.
 
-[1. functions for proposed algorithms](functions/)
+[1.  functions for proposed algorithms: functions/](functions/)
 
-[2. how to implement functions and reproduce publication figures](figures/)
+[2. how to implement functions and reproduce publication figures: figures/](figures/)
 
-[3. example data for phase entrainment](example_data/)
+[3. example data for phase entrainment: example_data/](example_data/)
 
 ## Usage
 
-Provided function file 'gmfp.m' and 'lmfp.m' that calculates the global/local mean field power from given EEG epoch. Corresponding python function has also been provided.   
+Please see details of each function in .m file.
 
 ## Features
 
-- Feature 1: Codes to reproduce all original figures are provided.
-- Feature 2: Corresponding codes of all evaluated algorithms are provided. (see [Matlab example](matlab/example.mlx) and [Python example](python/gmfp_example.ipynb) for details). 
-- Feature 3: Two example datasets are provided.
+- Feature 1: Codes to reproduce all original figures are provided. [figures/](figures/)
+- Feature 2: Corresponding codes of all evaluated algorithms are provided. (see [kmeans](functions/kmeans_search.m), [dbscan](functions/dbscan_search.m) and [hierarchical](functions/hierarchical_search.m) for details). 
+- Feature 3: Two example datasets are provided ([phase entrainment](example_data/) and [DNA sequence](functions/dna_sequences.m).
   
-## Example
-- Besides the syntheic 
-
-
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Refer to the [LICENSE](LICENSE) file for more information.
 
 ## Credits
 
-Thanks to Chongkun Zhao for working with me to put the code materials together.
+Thanks to [Chongkun Zhao](https://liinc.bme.columbia.edu/people/chongkun-zhao) for working with me to put the code materials together.
 
-This constitutes a segment of our branch's efforts within the closed-loop neuromodulation project (focused on phase entrainment). For a more comprehensive background, I encourage you to check out our series of publications.
+This work is also inspired by our branch's efforts within the closed-loop neuromodulation project (which focused on phase entrainment). For a more comprehensive background, I encourage you to check out our series of publications.
 
 simultaneous fMRI-EEG-TMS: https://www.sciencedirect.com/science/article/pii/S1935861X23017746
 
