@@ -51,8 +51,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 Thanks to [Chongkun Zhao](https://liinc.bme.columbia.edu/people/chongkun-zhao) for working with me to put the code materials together.
 
-This work is currently under review at IEEE TCBB, preprint at arxiv is available here: [paper](https://arxiv.org/abs/2309.08757)  
-This work is also inspired by our branch's efforts within the closed-loop neuromodulation project (which focused on phase entrainment). For a more comprehensive background, I encourage you to check out our series of publications.
+This work is currently under review at IEEE TCBB, preprint at arxiv is available [here](https://arxiv.org/abs/2309.08757). Please cite our work if used.
+
+This work is inspired by our branch's efforts within the closed-loop neuromodulation project (which focused on phase entrainment). For a more comprehensive background, I encourage you to check out our series of publications.
 
 simultaneous fMRI-EEG-TMS: https://www.sciencedirect.com/science/article/pii/S1935861X23017746
 
